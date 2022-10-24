@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FD.Microservice.ETrade", "FD.Microservice.ETrade\FD.Microservice.ETrade.csproj", "{3DFF5EAC-EABF-4B1F-AE13-F4BA1142427E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DFF5EAC-EABF-4B1F-AE13-F4BA1142427E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFF5EAC-EABF-4B1F-AE13-F4BA1142427E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFF5EAC-EABF-4B1F-AE13-F4BA1142427E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFF5EAC-EABF-4B1F-AE13-F4BA1142427E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37BB007E-C5E7-4917-B250-ECC5BD16A7E2}
+	EndGlobalSection
+EndGlobal
